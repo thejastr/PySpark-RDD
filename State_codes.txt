@@ -1,0 +1,8 @@
+Karnataka,KA
+Delhi,DL
+Gujarat,GJ
+Maharashtra,MH
+Rajasthan,RJ
+Punjab,PB
+AndhraPradesh,AP
+westBengal,WB
